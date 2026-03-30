@@ -1,0 +1,19 @@
+{
+  "businessName": "Metro Pest Control",
+  "category": "specialty",
+  "brandColors": {
+    "primary": "#2980B9",
+    "secondary": "#5499C7",
+    "accent": "#E67E22",
+    "dark": "#1F618D",
+    "light": "#EBF5FB"
+  },
+  "tagline": "Quality Guaranteed",
+  "services": [
+    "Expert Consultation",
+    "Professional Service",
+    "Quality Workmanship",
+    "Reliable Support",
+    "Custom Solutions"
+  ]
+}
